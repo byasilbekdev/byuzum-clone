@@ -72,7 +72,7 @@ export default function TwitterImage() {
             letterSpacing: -2,
           }}
         >
-          ByUzum Clone
+          ByMall
         </div>
 
         <div

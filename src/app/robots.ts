@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
     },
 
-    sitemap: "https://byuzumclone.vercel.app/sitemap.xml",
+    sitemap: "https://bymall.vercel.app/sitemap.xml",
   };
 }

@@ -1,22 +1,22 @@
-# 🛍️ ByUzum Clone
+# 🛍️ ByMall
 
-A modern e-commerce web application inspired by Uzum Market, built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**.
+A modern e-commerce web application inspired by ByMall, built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**.
 
 > **Disclaimer**
 >
-> This project is an educational portfolio project inspired by Uzum Market. It is not affiliated with, endorsed by, or associated with Uzum Market.
+> This project is an educational portfolio project inspired by ByMall. It is not affiliated with, endorsed by, or associated with ByMall.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 https://byuzumclone.vercel.app
+🔗 https://bymallclone.vercel.app
 
 ---
 
 ## 📸 Preview
 
-![ByUzum Clone](./public/preview.png)
+![ByMall](./public/preview.png)
 
 ---
 
@@ -75,9 +75,9 @@ src/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/byasilbekdev/byuzumclone.git
+git clone https://github.com/byasilbekdev/bymall.git
 
-cd byuzum-clone
+cd bymall
 
 npm install
 

@@ -16,10 +16,10 @@ export const poppins = Poppins({
   subsets: ["latin"],
 });
 
-const SITE_NAME = "ByUzum clone";
-const SITE_URL = "https://byuzumclone.vercel.app";
+const SITE_NAME = "ByMall";
+const SITE_URL = "https://bymall.vercel.app";
 const DESCRIPTION =
-  "ByUzum Clone is a modern e-commerce application inspired by Uzum Market. Built with Next.js 16, TypeScript and Tailwind CSS.";
+  "ByMall is a modern e-commerce application inspired by ByMall. Built with Next.js 16, TypeScript and Tailwind CSS.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
 
   title: {
     default: SITE_NAME,
-    template: "%s | ByUzum Clone",
+    template: "%s | ByMall",
   },
 
   description: DESCRIPTION,
@@ -36,8 +36,7 @@ export const metadata: Metadata = {
   authors: [{ name: "Asilbek Egamnazarov" }],
 
   keywords: [
-    "ByUzum Clone",
-    "Uzum Market Clone",
+    "ByMall",
     "Next.js",
     "TypeScript",
     "Tailwind CSS",
@@ -48,6 +47,23 @@ export const metadata: Metadata = {
     "Modern Web App",
     "JavaScript",
     "Responsive Design",
+    "Web Development",
+    "UI/UX Design",
+    "Web Application",
+    "Next.js E-commerce",
+    "Shopping Cart",
+    "Product Search",
+    "Product Filtering",
+    "Product Categories",
+    "Product Reviews",
+    "Wishlist Feature",
+    "Order History",
+    "Sales Analytics",
+    "Marketing Tools",
+    "Mobile-Friendly Design",
+    "Performance Optimization",
+    "SEO Best Practices",
+    "Accessibility Features",
   ],
 
   creator: "Asilbek Egamnazarov",
