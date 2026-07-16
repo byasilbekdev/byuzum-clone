@@ -48,15 +48,9 @@ export const metadata: Metadata = {
     "Responsive Design",
   ],
 
-  authors: [
-    {
-      name: "Asilbek Egamnazarov",
-    },
-  ],
+  creator: "Asilbek Egamnazarov",
 
-  creator: "ByUzum Clone Team",
-
-  publisher: "ByUzum Clone Team",
+  publisher: "Asilbek Egamnazarov",
 
   generator: "Next.js",
 
