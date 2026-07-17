@@ -1,7 +1,6 @@
 "use client";
 
-import Link from "next/link";
-import { AlertTriangle, Home, RotateCcw } from "lucide-react";
+import { AlertTriangle, RotateCcw } from "lucide-react";
 
 type ErrorPageProps = {
   error: Error & { digest?: string };
@@ -35,14 +34,6 @@ export default function Error({ error, reset }: ErrorPageProps) {
             <RotateCcw size={18} />
             Try Again
           </button>
-
-          <Link
-            href="/"
-            className="inline-flex items-center gap-2 rounded-xl border border-white/30 px-5 py-3 font-semibold text-white transition hover:bg-white/10"
-          >
-            <Home size={18} />
-            Go Home
-          </Link>
         </div>
       </div>
     </main>
